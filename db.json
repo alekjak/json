@@ -1,8 +1,8 @@
 {
   "test1": [
-    { "name": "Patelnia", "team": "Idealna dla kazdego kucharza!", "imageurl": "https://static.podaj.to/images/314739375662.jpg" },
-    { "name": "Toster", "team": "Kto nie lubi tostow?", "imageurl": "https://upload.wikimedia.org/wikipedia/commons/9/95/OK._Toaster.jpg" },
-    { "name": "Kalafior", "team": "W sumie to nie wiem xD", "imageurl": "https://demotywatory.pl/uploads/201904/1556301794_onyn5b_fb_plus.jpg" }
+    { "title": "Patelnia", "desc": "Idealna dla kazdego kucharza!", "imageurl": "https://static.podaj.to/images/314739375662.jpg" },
+    { "title": "Toster", "desc": "Kto nie lubi tostow?", "imageurl": "https://upload.wikimedia.org/wikipedia/commons/9/95/OK._Toaster.jpg" },
+    { "title": "Kalafior", "desc": "W sumie to nie wiem xD", "imageurl": "https://demotywatory.pl/uploads/201904/1556301794_onyn5b_fb_plus.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
