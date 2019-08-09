@@ -1,12 +1,5 @@
 {
   "test1": [
-    { "title": "Pudełko", "desc": "Mała a bardzo personalna rzecz, która nawet najtwardsze serce chwyci!", "imageurl": "https://github.com/alekjak/json/blob/alekjak-patch-1/67475499_719928698459003_8953136817759059968_n.jpg?raw=true"},
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "title": "Pudełko", "desc": "Mała a bardzo personalna rzecz, która nawet najtwardsze serce chwyci!", "imageurl": "https://github.com/alekjak/json/blob/alekjak-patch-1/67475499_719928698459003_8953136817759059968_n.jpg?raw=true"}
+  ]
 }
