@@ -1,6 +1,6 @@
 {
   "test1": [
-    { "title": "Pudełko", "desc": "Mała a bardzo personalna rzecz, która nawet najtwardsze serce chwyci!", "imageurl": "https://github.com/alekjak/json/blob/alekjak-patch-1/67475499_719928698459003_8953136817759059968_n.jpg?raw=true"}
+    { "title": "Pudełko", "desc": "Mała a bardzo personalna rzecz, która nawet najtwardsze serce chwyci!", "imageurl": "https://github.com/alekjak/json/blob/alekjak-patch-1/67475499_719928698459003_8953136817759059968_n.jpg?raw=true"},
     { "title": "Kotek", "desc": "Mała a fajny!", "imageurl": "http://www.koty.pl/wp-content/uploads/2018/07/shutterstock_330164483-864x575.jpg"}
   ]
 }
